@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="login">Login</string>
+    <string name="sign">Please sign in to continue.</string>
+    <string name="botao">Sign Up</string>
+    <string name="ajuda">don\'t have an account?</string>
+    <string name="ajudaa">Sing up</string>
+
+</resources>
