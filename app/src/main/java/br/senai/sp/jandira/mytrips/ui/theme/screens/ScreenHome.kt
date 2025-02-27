@@ -61,7 +61,7 @@ fun ScreenHome(modifier: Modifier = Modifier){
                         R.string.login
                     ),
                     color = Color.Blue,
-                    fontSize = 32.sp,
+                    fontSize = 50.sp,
                     fontWeight = FontWeight.Bold
                 )
                 Text(
@@ -69,7 +69,7 @@ fun ScreenHome(modifier: Modifier = Modifier){
                         R.string.sign
                     ),
                     color = Color.Black,
-                    fontSize = 10.sp,
+                    fontSize = 15.sp,
                 )
                 TextField(value = "", onValueChange = {},
                     modifier = Modifier
